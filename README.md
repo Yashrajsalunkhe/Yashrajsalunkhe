@@ -31,7 +31,10 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a></p>
 
+<div align = "center">
+  
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Yashrajsalunkhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajsalunkhe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsalunkhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -41,6 +44,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashrajsalunkhe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
