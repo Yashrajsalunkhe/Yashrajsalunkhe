@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1000&color=F5700A&center=true&vCenter=true&random=true&width=1100&height=100&lines=%3C+Hello+world+%F0%9F%91%8B%F0%9F%8F%BC%2C+It's+YASHRAJ+Here!+%2F%3E)
+
+<p>AI&DS Engineer</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yxshhhh_111/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashraj-salunkhe/) 
