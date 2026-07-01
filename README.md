@@ -41,13 +41,6 @@ const yashraj = {
         "Cloud & DevOps"
     ],
 
-    currentProjects: [
-        "Multi-Agent Research Assistant",
-        "Women's Safety Analytics",
-        "DSA Repository",
-        "Personal Portfolio"
-    ],
-
     goal: "To become an AI Engineer capable of building scalable AI products from model development to deployment.",
 
     funFact: "I enjoy turning ideas into projects, and every bug teaches me something new. 🚀"
